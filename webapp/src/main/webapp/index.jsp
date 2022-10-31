@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Bhautik User Register exam</h1>
+    <h1> New Mayur User Register exam</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
    
